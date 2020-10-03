@@ -1,26 +1,25 @@
-code {
-    background: #2db34a;
-    border-radius: 6px;
-    color: #fff;
-    display: block;
-    font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
-    padding: 24px 15px;
-    text-align: cen
-    ter;
-  }
-  header,
-  section,
-  aside,
-  footer {
-    margin: 0 1.5% 24px 1.5%;
-  }
+h2, 
+p {
+  color: #555;
+  font: 13px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
-  section {
-    float: left;
-    width: 30%;
-  }
+a {
+  text-decoration: none;
+  color: #0087cc;
+}
 
-  footer {
-    clear: both;
-    margin-bottom: 0;
-  }
+a:hover {
+  color: #ff7b29;
+}
+
+h2 {
+  font: bold 22px;
+  margin-bottom: 6px;
+}
+
+.byline {
+  color: #9799a7;
+  font: italic Georgia, Times, "Times New Roman", serif;
+  margin-bottom: 18px;
+}
